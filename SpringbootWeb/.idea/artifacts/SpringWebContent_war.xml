@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringWebContent:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringWebContent.war">
+      <element id="artifact" artifact-name="SpringWebContent:war exploded" />
+    </root>
+  </artifact>
+</component>
